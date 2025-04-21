@@ -62,9 +62,9 @@ What drives me is building systems that are **clean, scalable, and fully automat
 
 ### 🌐 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/httpdss)  
-- [Twitter / X](https://twitter.com/httpdss)  
 - [GitHub](https://github.com/httpdss)
+- [LinkedIn](https://uy.linkedin.com/in/httpdss)  
+
 
 ---
 

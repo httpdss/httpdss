@@ -1,3 +1,5 @@
+<!-- markdownlint-disable no-inline-html -->
+
 <h1 align="center">Hey there 👋 I'm @httpdss</h1>
 <p align="center">💻 DevOps Engineer · OSS Contributor · Automation Enthusiast</p>
 
@@ -13,9 +15,9 @@ What drives me is building systems that are **clean, scalable, and fully automat
 
 ### 🧰 My Daily Stack
 
-- ☁️ **Infra**: Terraform, Ansible  
-- 🐳 **Containers**: Docker, Kubernetes  
-- 🔁 **CI/CD**: GitHub Actions, Jenkins, Travis  
+- ☁️ **Infra**: Terraform, Ansible
+- 🐳 **Containers**: Docker, Kubernetes
+- 🔁 **CI/CD**: GitHub Actions, Jenkins, Travis
 - 🧠 **Tools I enjoy**: ArgoCD, AWS CLI, `awk`, `sed`
 
 ---
@@ -29,9 +31,17 @@ What drives me is building systems that are **clean, scalable, and fully automat
 
 ---
 
+### 📝 Recent Articles
+
+- [**Unlocking Developer Productivity with STRUCT: The Ultimate Open-Source Tool for Automated Project Structures**](https://blog.devops.dev/unlocking-developer-productivity-with-struct-the-ultimate-open-source-tool-for-automated-project-8bca9b5f40f9)
+- [**Automating Project Structures with STRUCT and GitHub Actions**](https://medium.com/@httpdss/automating-project-structures-with-struct-and-github-actions-64e09c40c11e)
+- [**Advanced STRUCT Tips: Working with Template Variables and Jinja2 Filters**](https://medium.com/@httpdss/advanced-struct-tips-working-with-template-variables-and-jinja2-filters-b239bf3145e4)
+
+---
+
 ### ⚙️ Automation That Matters
 
-- GitHub Actions workflow for `terraform plan` and `terraform apply` via pull requests and code review.  
+- GitHub Actions workflow for `terraform plan` and `terraform apply` via pull requests and code review.
 - AWS discovery script in Python that scans resources and outputs reports to help reduce costs and improve security posture.
 
 ---
@@ -46,16 +56,16 @@ What drives me is building systems that are **clean, scalable, and fully automat
 
 ### 📚 Currently Learning
 
-- Building my personal brand & improving tech communication  
-- Exploring GitOps practices and Service Mesh architectures  
+- Building my personal brand & improving tech communication
+- Exploring GitOps practices and Service Mesh architectures
 - Writing more, sharing more, helping more
 
 ---
 
 ### 🥁 Outside of Tech
 
-- Music is my jam — I play drums and listen to **Foo Fighters** and **Nirvana** when deploying things 🎸  
-- Still in love with old-school CLI tools like `awk` and `sed`  
+- Music is my jam — I play drums and listen to **Foo Fighters** and **Nirvana** when deploying things 🎸
+- Still in love with old-school CLI tools like `awk` and `sed`
 - Always curious, always building
 
 ---
@@ -63,8 +73,7 @@ What drives me is building systems that are **clean, scalable, and fully automat
 ### 🌐 Let’s Connect
 
 - [GitHub](https://github.com/httpdss)
-- [LinkedIn](https://uy.linkedin.com/in/httpdss)  
-
+- [LinkedIn](https://uy.linkedin.com/in/httpdss)
 
 ---
 

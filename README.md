@@ -15,10 +15,10 @@ What drives me is building systems that are **clean, scalable, and fully automat
 
 ### 🧰 My Daily Stack
 
-- ☁️ **Infra**: Terraform, Ansible
-- 🐳 **Containers**: Docker, Kubernetes
-- 🔁 **CI/CD**: GitHub Actions, Jenkins, Travis
-- 🧠 **Tools I enjoy**: ArgoCD, AWS CLI, `awk`, `sed`
+- ☁️ **Infra**: ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+- 🐳 **Containers**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- 🔁 **CI/CD**: ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?logo=travisci&logoColor=white)
+- 🧠 **Tools I enjoy**: ![ArgoCD](https://img.shields.io/badge/-ArgoCD-F05032?logo=argo&logoColor=white) ![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-232F3E?logo=amazonaws&logoColor=white) `awk`, `sed`
 
 ---
 
